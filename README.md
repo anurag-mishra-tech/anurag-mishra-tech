@@ -1,6 +1,6 @@
+[![MasterHead](https://deloitteie.wd3.myworkdayjobs.com/wday/cxs/deloitteie/Experienced_Professionals/sidebarimage/d7e4ba2ed6f70193b0f298042602f500)](https://github.com/anurag-mishra-tech/)
 <h1 align="center">Hi 👋, I'm Anurag Mishra</h1>
-<h3 align="center">Backend developer from India</h3>
-
+<h3 align="center">Backend developer from Deloitte</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anurag-mishra-tech&label=Profile%20views&color=0e75b6&style=flat" alt="anurag-mishra-tech" /> </p>
 
 - 🌱 I’m currently learning **Cloud Frameworks**
@@ -19,6 +19,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
 
+&nbsp;
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anurag-mishra-tech&show_icons=true&locale=en&layout=compact" alt="anurag-mishra-tech" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anurag-mishra-tech&show_icons=true&locale=en" alt="anurag-mishra-tech" /></p>
