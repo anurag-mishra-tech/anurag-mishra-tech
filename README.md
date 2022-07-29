@@ -1,8 +1,9 @@
-[![MasterHead](https://deloitteie.wd3.myworkdayjobs.com/wday/cxs/deloitteie/Experienced_Professionals/sidebarimage/d7e4ba2ed6f70193b0f298042602f500)](https://github.com/anurag-mishra-tech/)
+[![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg)](https://github.com/anurag-mishra-tech/)
 <h1 align="center">Hi 👋, I'm Anurag Mishra</h1>
 <h3 align="center">Backend developer from Deloitte</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anurag-mishra-tech&label=Profile%20views&color=0e75b6&style=flat" alt="anurag-mishra-tech" /> </p>
 
+<img align = "right" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="350" height="250" alt="anurag-mishra-tech">
 - 🌱 I’m currently learning **Cloud Frameworks**
 
 - 📫 How to reach me **anuragmishra91294@gmail.com**
